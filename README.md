@@ -1,1 +1,1 @@
-# jupyter-exploration.
+# GitHub and jupyter notebook exploration. 
